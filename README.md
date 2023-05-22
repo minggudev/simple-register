@@ -70,5 +70,5 @@ Specify the license under which your project is distributed. For example, you ca
 ---
 
 <p align="center">
-  Made with ❤️ by [Your GitHub Username](https://github.com/minggudev)
+  Made with ❤️ by [minggu dev](https://github.com/minggudev)
 </p>
